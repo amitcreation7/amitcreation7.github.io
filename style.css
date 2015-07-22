@@ -9,7 +9,7 @@ background-repeat: no-repeat;
 background-size: cover;
 }
 
-.top-header{
+.quotes{
 	width: 100%;
 	max-width: 960px;
 	font:6em "Amatic sc",cursive;
@@ -17,4 +17,28 @@ background-size: cover;
 	text-shadow:1px 1px 0 rgba(0,0,0,.2);
 	margin: 40px auto;
 	text-align: center;
+	font-weight: bold;
+}
+.nav{
+	background-color: #ffffff;
+}
+.nav_wrap{
+	width: 960px;
+	margin: 0 auto;
+	text-align: center;
+}
+.nav ul li{
+	display: inline-block;
+}
+.nav ul li:hover{
+	background-color: #999966;
+}
+.nav ul li a{
+	font-family: 'Lato', sans-serif;
+	color: #cc0000;
+	display: block;
+	padding: 30px;
+	text-decoration: none;
+	text-align: center;
+	font-weight: bold;
 }
