@@ -1,2 +1,4 @@
-head { display: block; }
-title { display: block; font-size: 200%; font-weight: bold; font-family:AUdimat; }
+
+title { display: block; font-size: 200%; font-weight: bold; font-family:"SANS SERIF"; }
+body{ background-color: #3333CC;}
+h1{ font-family: AUdimat; font-size:20px;color: #FFFFFF;}
